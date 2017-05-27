@@ -3,6 +3,6 @@
 
 # TODO
 - [x] 0.Tensor
-- [ ] 1.Variable
+- [x] 1.Variable
 - [ ] 2.torch.nn & torch.optim
 - [ ] 3.2.torch.nn & torch.optim
